@@ -14,7 +14,7 @@ nltk
 matplotlib
 pysastrawi
 textblob
-vader
+vaderSentiment
 tqdm
 #os----
 seaborn
