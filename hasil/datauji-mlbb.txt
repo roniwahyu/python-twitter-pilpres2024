@@ -1,0 +1,126 @@
+Dataset shopee 75.0:25.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 11 
+ Neutral: 	344 
+ Positive:	20 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	3
+ Neutral: 	115
+ Positive:	7 
+[INFO] Shape Data: 
+ X_train: 	 (375,) 
+ X_test: 	 (125,) 
+ y_train: 	 (375,) 
+ y_test: 	 (125,) 
+Dataset shopee 75.0:25.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 11 
+ Neutral: 	344 
+ Positive:	20 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	3
+ Neutral: 	115
+ Positive:	7 
+[INFO] Shape Data: 
+ X_train: 	 (375,) 
+ X_test: 	 (125,) 
+ y_train: 	 (375,) 
+ y_test: 	 (125,) 
+Dataset shopee 75.0:25.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 11 
+ Neutral: 	344 
+ Positive:	20 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	3
+ Neutral: 	115
+ Positive:	7 
+[INFO] Shape Data: 
+ X_train: 	 (375,) 
+ X_test: 	 (125,) 
+ y_train: 	 (375,) 
+ y_test: 	 (125,) 
+Dataset shopee 75.0:25.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 11 
+ Neutral: 	344 
+ Positive:	20 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	3
+ Neutral: 	115
+ Positive:	7 
+[INFO] Shape Data: 
+ X_train: 	 (375,) 
+ X_test: 	 (125,) 
+ y_train: 	 (375,) 
+ y_test: 	 (125,) 
+Dataset shopee 75.0:25.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 11 
+ Neutral: 	344 
+ Positive:	20 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	3
+ Neutral: 	115
+ Positive:	7 
+[INFO] Shape Data: 
+ X_train: 	 (375,) 
+ X_test: 	 (125,) 
+ y_train: 	 (375,) 
+ y_test: 	 (125,) 
+Dataset shopee 75.0:25.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 11 
+ Neutral: 	344 
+ Positive:	20 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	3
+ Neutral: 	115
+ Positive:	7 
+[INFO] Shape Data: 
+ X_train: 	 (375,) 
+ X_test: 	 (125,) 
+ y_train: 	 (375,) 
+ y_test: 	 (125,) 
+Dataset shopee 70.0:30.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 10 
+ Neutral: 	321 
+ Positive:	19 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	4
+ Neutral: 	138
+ Positive:	8 
+[INFO] Shape Data: 
+ X_train: 	 (350,) 
+ X_test: 	 (150,) 
+ y_train: 	 (350,) 
+ y_test: 	 (150,) 
+Dataset shopee 70.0:30.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 10 
+ Neutral: 	321 
+ Positive:	19 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	4
+ Neutral: 	138
+ Positive:	8 
+[INFO] Shape Data: 
+ X_train: 	 (350,) 
+ X_test: 	 (150,) 
+ y_train: 	 (350,) 
+ y_test: 	 (150,) 
+Dataset shopee 75.0:25.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 11 
+ Neutral: 	344 
+ Positive:	20 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	3
+ Neutral: 	115
+ Positive:	7 
+[INFO] Shape Data: 
+ X_train: 	 (375,) 
+ X_test: 	 (125,) 
+ y_train: 	 (375,) 
+ y_test: 	 (125,) 
