@@ -1,0 +1,7 @@
+Dataset: mlbb 	[INFO] Testing Menggunakan SVC linear kernel, akurasi pada testing set: 0.9424307036247335 
+Dataset: mlbb 	[INFO] Testing Menggunakan SVC RBF kernel, akurasi pada testing set: 0.94136460554371 
+Dataset: mlbb 	[INFO] Testing Menggunakan SVC Polynomial (degree 3), akurasi pada testing set: 0.9445628997867804 
+Dataset: mlbb 	[INFO] Testing Menggunakan Naive Bayes, akurasi pada testing set: 0.9093816631130064 
+Dataset: mlbb 	[INFO] Testing Menggunakan Decision Tree, akurasi pada testing set: 0.9594882729211087 
+Dataset: mlbb 	[INFO] Testing Menggunakan Random Forest, akurasi pada testing set: 0.964818763326226 
+Dataset: mlbb 	[INFO] Testing Menggunakan Regresi Linier, akurasi pada testing set: 0.9253731343283582 

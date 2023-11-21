@@ -1,0 +1,77 @@
+Menggunakan Metode :SVC linear kernel 
+              precision    recall  f1-score   support
+
+    Negative       0.00      0.00      0.00         3
+     Neutral       0.92      1.00      0.96       115
+    Positive       0.00      0.00      0.00         7
+
+    accuracy                           0.92       125
+   macro avg       0.31      0.33      0.32       125
+weighted avg       0.85      0.92      0.88       125
+ 
+Menggunakan Metode :SVC RBF kernel 
+              precision    recall  f1-score   support
+
+    Negative       0.00      0.00      0.00         3
+     Neutral       0.93      1.00      0.96       115
+    Positive       1.00      0.14      0.25         7
+
+    accuracy                           0.93       125
+   macro avg       0.64      0.38      0.40       125
+weighted avg       0.91      0.93      0.90       125
+ 
+Menggunakan Metode :SVC Polynomial (degree 3) 
+              precision    recall  f1-score   support
+
+    Negative       0.00      0.00      0.00         3
+     Neutral       0.93      1.00      0.96       115
+    Positive       1.00      0.14      0.25         7
+
+    accuracy                           0.93       125
+   macro avg       0.64      0.38      0.40       125
+weighted avg       0.91      0.93      0.90       125
+ 
+Menggunakan Metode :Naive Bayes 
+              precision    recall  f1-score   support
+
+    Negative       0.00      0.00      0.00         3
+     Neutral       0.92      1.00      0.96       115
+    Positive       0.00      0.00      0.00         7
+
+    accuracy                           0.92       125
+   macro avg       0.31      0.33      0.32       125
+weighted avg       0.85      0.92      0.88       125
+ 
+Menggunakan Metode :Decision Tree 
+              precision    recall  f1-score   support
+
+    Negative       0.00      0.00      0.00         3
+     Neutral       0.92      0.92      0.92       115
+    Positive       0.12      0.14      0.13         7
+
+    accuracy                           0.86       125
+   macro avg       0.35      0.35      0.35       125
+weighted avg       0.85      0.86      0.86       125
+ 
+Menggunakan Metode :Random Forest 
+              precision    recall  f1-score   support
+
+    Negative       0.00      0.00      0.00         3
+     Neutral       0.93      0.99      0.96       115
+    Positive       0.50      0.14      0.22         7
+
+    accuracy                           0.92       125
+   macro avg       0.48      0.38      0.39       125
+weighted avg       0.88      0.92      0.89       125
+ 
+Menggunakan Metode :Regresi Linier 
+              precision    recall  f1-score   support
+
+    Negative       0.00      0.00      0.00         3
+     Neutral       0.92      1.00      0.96       115
+    Positive       0.00      0.00      0.00         7
+
+    accuracy                           0.92       125
+   macro avg       0.31      0.33      0.32       125
+weighted avg       0.85      0.92      0.88       125
+ 
