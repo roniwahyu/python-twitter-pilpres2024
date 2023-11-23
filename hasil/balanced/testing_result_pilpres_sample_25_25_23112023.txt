@@ -1,3 +1,0 @@
-Dataset: mlbb 	[INFO] Testing Menggunakan SVC linear kernel, akurasi pada testing set: 0.5964912280701754 
-Dataset: mlbb 	[INFO] Testing Menggunakan SVC RBF kernel, akurasi pada testing set: 0.47368421052631576 
-Dataset: mlbb 	[INFO] Testing Menggunakan SVC Polynomial (degree 3), akurasi pada testing set: 0.47368421052631576 

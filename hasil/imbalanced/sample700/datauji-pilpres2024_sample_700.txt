@@ -1,0 +1,28 @@
+Dataset shopee 75.0:25.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 86 
+ Neutral: 	1376 
+ Positive:	113 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	29
+ Neutral: 	459
+ Positive:	37 
+[INFO] Shape Data: 
+ X_train: 	 (1575,) 
+ X_test: 	 (525,) 
+ y_train: 	 (1575,) 
+ y_test: 	 (525,) 
+Dataset shopee 75.0:25.0 
+ [INFO] Sebaran kelas pada training  set: 
+ Negative: 	 86 
+ Neutral: 	1376 
+ Positive:	113 
+[INFO] Sebaran kelas pada testing set:
+ Negative: 	29
+ Neutral: 	459
+ Positive:	37 
+[INFO] Shape Data: 
+ X_train: 	 (1575,) 
+ X_test: 	 (525,) 
+ y_train: 	 (1575,) 
+ y_test: 	 (525,) 
