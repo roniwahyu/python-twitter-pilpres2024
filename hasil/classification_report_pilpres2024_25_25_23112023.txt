@@ -1,0 +1,88 @@
+Menggunakan Metode :SVC linear kernel 
+              precision    recall  f1-score   support
+
+    Negative       0.65      0.68      0.67        19
+     Neutral       0.59      0.53      0.56        19
+    Positive       0.55      0.58      0.56        19
+
+    accuracy                           0.60        57
+   macro avg       0.60      0.60      0.60        57
+weighted avg       0.60      0.60      0.60        57
+ 
+Menggunakan Metode :SVC linear kernel 
+              precision    recall  f1-score   support
+
+    Negative       0.65      0.68      0.67        19
+     Neutral       0.59      0.53      0.56        19
+    Positive       0.55      0.58      0.56        19
+
+    accuracy                           0.60        57
+   macro avg       0.60      0.60      0.60        57
+weighted avg       0.60      0.60      0.60        57
+ 
+Menggunakan Metode :SVC RBF kernel 
+              precision    recall  f1-score   support
+
+    Negative       0.42      0.84      0.56        19
+     Neutral       0.50      0.16      0.24        19
+    Positive       0.62      0.42      0.50        19
+
+    accuracy                           0.47        57
+   macro avg       0.51      0.47      0.43        57
+weighted avg       0.51      0.47      0.43        57
+ 
+Menggunakan Metode :SVC Polynomial (degree 3) 
+              precision    recall  f1-score   support
+
+    Negative       0.60      0.32      0.41        19
+     Neutral       0.38      0.84      0.52        19
+    Positive       1.00      0.26      0.42        19
+
+    accuracy                           0.47        57
+   macro avg       0.66      0.47      0.45        57
+weighted avg       0.66      0.47      0.45        57
+ 
+Menggunakan Metode :SVC linear kernel 
+              precision    recall  f1-score   support
+
+    Negative       0.65      0.68      0.67        19
+     Neutral       0.59      0.53      0.56        19
+    Positive       0.55      0.58      0.56        19
+
+    accuracy                           0.60        57
+   macro avg       0.60      0.60      0.60        57
+weighted avg       0.60      0.60      0.60        57
+ 
+Menggunakan Metode :SVC linear kernel 
+              precision    recall  f1-score   support
+
+    Negative       0.65      0.68      0.67        19
+     Neutral       0.59      0.53      0.56        19
+    Positive       0.55      0.58      0.56        19
+
+    accuracy                           0.60        57
+   macro avg       0.60      0.60      0.60        57
+weighted avg       0.60      0.60      0.60        57
+ 
+Menggunakan Metode :SVC RBF kernel 
+              precision    recall  f1-score   support
+
+    Negative       0.42      0.84      0.56        19
+     Neutral       0.50      0.16      0.24        19
+    Positive       0.62      0.42      0.50        19
+
+    accuracy                           0.47        57
+   macro avg       0.51      0.47      0.43        57
+weighted avg       0.51      0.47      0.43        57
+ 
+Menggunakan Metode :SVC Polynomial (degree 3) 
+              precision    recall  f1-score   support
+
+    Negative       0.60      0.32      0.41        19
+     Neutral       0.38      0.84      0.52        19
+    Positive       1.00      0.26      0.42        19
+
+    accuracy                           0.47        57
+   macro avg       0.66      0.47      0.45        57
+weighted avg       0.66      0.47      0.45        57
+ 
