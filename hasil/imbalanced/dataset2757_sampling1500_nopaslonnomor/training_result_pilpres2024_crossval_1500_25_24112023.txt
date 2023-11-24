@@ -1,0 +1,2 @@
+Dataset: mlbb 	[INFO] 5x Cross Validation Menggunakan SVC linear kernel, Cross-validation akurasi: 0.918519 (+/- 0.012847) 
+Dataset: mlbb 	[INFO] 5x Cross Validation Menggunakan SVC RBF kernel, Cross-validation akurasi: 0.918519 (+/- 0.012847) 
