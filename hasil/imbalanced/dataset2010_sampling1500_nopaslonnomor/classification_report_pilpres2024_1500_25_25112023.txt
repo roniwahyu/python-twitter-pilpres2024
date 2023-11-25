@@ -1,0 +1,60 @@
+Menggunakan Metode :SVC Sigmoid 
+              precision    recall  f1-score   support
+
+    Negative       0.96      0.50      0.66        52
+     Neutral       0.95      1.00      0.97       966
+    Positive       0.97      0.72      0.83       107
+
+    accuracy                           0.95      1125
+   macro avg       0.96      0.74      0.82      1125
+weighted avg       0.95      0.95      0.94      1125
+ 
+Accuracy score: 94.84%
+Precision score: 94.95%
+Recall score: 94.84% 
+ 
+Menggunakan Metode :SVC linear kernel 
+              precision    recall  f1-score   support
+
+    Negative       0.96      0.90      0.93        52
+     Neutral       0.99      1.00      0.99       966
+    Positive       0.99      0.95      0.97       107
+
+    accuracy                           0.99      1125
+   macro avg       0.98      0.95      0.97      1125
+weighted avg       0.99      0.99      0.99      1125
+ 
+Accuracy score: 98.84%
+Precision score: 98.84%
+Recall score: 98.84% 
+ 
+Menggunakan Metode :SVC RBF kernel 
+              precision    recall  f1-score   support
+
+    Negative       1.00      0.81      0.89        52
+     Neutral       0.98      1.00      0.99       966
+    Positive       1.00      0.91      0.95       107
+
+    accuracy                           0.98      1125
+   macro avg       0.99      0.90      0.94      1125
+weighted avg       0.98      0.98      0.98      1125
+ 
+Accuracy score: 98.22%
+Precision score: 98.26%
+Recall score: 98.22% 
+ 
+Menggunakan Metode :SVC Polynomial (degree 3) 
+              precision    recall  f1-score   support
+
+    Negative       1.00      0.31      0.47        52
+     Neutral       0.93      1.00      0.96       966
+    Positive       1.00      0.67      0.80       107
+
+    accuracy                           0.94      1125
+   macro avg       0.98      0.66      0.75      1125
+weighted avg       0.94      0.94      0.93      1125
+ 
+Accuracy score: 93.69%
+Precision score: 94.12%
+Recall score: 93.69% 
+ 
