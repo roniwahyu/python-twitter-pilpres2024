@@ -16,7 +16,8 @@ nltk
 matplotlib
 pysastrawi
 textblob
-vaderSentiment
+# vaderSentiment
+vader-multi
 tqdm
 gensim
 #os----
