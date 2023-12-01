@@ -1,0 +1,10 @@
+dataset
+prabowogibran     223
+aniesmuhaimin     577
+ganjarmahfud     1450
+Name: count, dtype: int64
+textblob_sentiment
+Positive    750
+Neutral     750
+Negative    750
+Name: count, dtype: int64
