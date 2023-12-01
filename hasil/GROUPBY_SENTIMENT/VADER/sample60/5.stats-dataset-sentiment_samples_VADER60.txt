@@ -1,0 +1,10 @@
+dataset
+prabowogibran     15
+aniesmuhaimin     63
+ganjarmahfud     102
+Name: count, dtype: int64
+vader_sentiment
+Positive    60
+Neutral     60
+Negative    60
+Name: count, dtype: int64
