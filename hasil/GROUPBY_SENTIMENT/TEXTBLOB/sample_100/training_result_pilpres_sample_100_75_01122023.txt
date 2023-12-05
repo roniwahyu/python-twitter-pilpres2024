@@ -1,8 +1,0 @@
-Dataset: mlbb 	[INFO] Training Menggunakan SVC Sigmoid, akurasi pada training set: 0.8622222222222222 
-Dataset: mlbb 	[INFO] Training Menggunakan SVC linear kernel, akurasi pada training set: 0.9911111111111112 
-Dataset: mlbb 	[INFO] Training Menggunakan SVC RBF kernel, akurasi pada training set: 0.9955555555555555 
-Dataset: mlbb 	[INFO] Training Menggunakan SVC Polynomial (degree 3), akurasi pada training set: 0.7022222222222222 
-Dataset: mlbb 	[INFO] Training Menggunakan SVC Sigmoid, akurasi pada training set: 0.8622222222222222 
-Dataset: mlbb 	[INFO] Training Menggunakan SVC linear kernel, akurasi pada training set: 0.9911111111111112 
-Dataset: mlbb 	[INFO] Training Menggunakan SVC RBF kernel, akurasi pada training set: 0.9955555555555555 
-Dataset: mlbb 	[INFO] Training Menggunakan SVC Polynomial (degree 3), akurasi pada training set: 0.7022222222222222 
